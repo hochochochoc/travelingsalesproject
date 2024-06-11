@@ -1,0 +1,9 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Badajoz,38.8803,-6.9753,Spain,ES,Extremadura,minor,150190,150190
+Sevilla,37.3900,-5.9900,Spain,ES,Andalucía,admin,1100000,684025
+Málaga,36.7194,-4.4200,Spain,ES,Andalucía,minor,967250,586384
+Granada,37.1781,-3.6008,Spain,ES,Andalucía,minor,230595,230595
+Valencia,39.4700,-0.3764,Spain,ES,Valencia,admin,1595000,807693
+Barcelona,41.3828,2.1769,Spain,ES,Catalunya,admin,4800000,1620343
+Vielha,42.7023,0.79581,Spain,ES,Catalunya,,3628,3628
+Mahón,39.887,4.161111,Spain,ES,Balearic Islands,,28592,28592

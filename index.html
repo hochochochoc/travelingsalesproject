@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script src="main.js"></script>
+    <script src="greedy.js"></script>
+    <script src="draw.js"></script>
+    
+    
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyByE64wA61IlqrLScEBn6dUig4zx8liL44&callback=initMap" async defer></script>
+    <link rel="stylesheet" href="/css/main.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="map" id="map" ></div>
+        <div class="controls">
+            <input type="number" value="10" id="number_of_cities">
+            <button class="btn btn-light fw-bold text-uppercase" id="button_find_city">Add Cities</button>
+            <button class="btn btn-light fw-bold text-uppercase" id="greedy">Algorithm</button>
+            <button class="btn btn-light fw-bold text-uppercase" id="draw">Draw</button>
+            <button class="btn btn-light fw-bold text-uppercase" id="refresh">Refresh</button>
+            <button class="btn btn-light fw-bold text-uppercase" id="goBack">Back</button>
+        </div>
+        
+    </div>
+
+
+    
+    <div class="" id="city"></div>
+    <div class="" id="path"></div> 
+    
+    
+</body>
+</html>
+

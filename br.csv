@@ -1,0 +1,37 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+São Paulo,-23.5505,-46.6333,Brazil,BR,São Paulo,primary,12300000,12300000
+Rio de Janeiro,-22.9068,-43.1729,Brazil,BR,Rio de Janeiro,admin,6748000,6748000
+Brasília,-15.7942,-47.8825,Brazil,BR,Distrito Federal,primary,3015268,3015268
+Salvador,-12.9714,-38.5014,Brazil,BR,Bahia,admin,2886698,2886698
+Fortaleza,-3.71833,-38.542778,Brazil,BR,Ceara,admin,2686612,2686612
+Belo Horizonte,-19.9167,-43.9345,Brazil,BR,Minas Gerais,admin,2521564,2521564
+Manaus,-3.119,-60.0217,Brazil,BR,Amazonas,admin,2182763,2182763
+Curitiba,-25.4284,-49.2733,Brazil,BR,Parana,admin,1933105,1933105
+Recife,-8.0476,-34.8783,Brazil,BR,Pernambuco,admin,1645727,1645727
+Porto Alegre,-30.0346,-51.2177,Brazil,BR,Rio Grande do Sul,admin,1484941,1484941
+Belém,-1.4558,-48.5044,Brazil,BR,Pará,admin,1441085,1441085
+Goiânia,-16.6869,-49.2648,Brazil,BR,Goiás,admin,1536097,1536097
+São Luís,-2.5297,-44.3028,Brazil,BR,Maranhão,admin,1101884,1101884
+Maceió,-9.6658,-35.735,Brazil,BR,Alagoas,admin,1025360,1025360
+Natal,-5.795,-35.2094,Brazil,BR,Rio Grande do Norte,admin,884122,884122
+Teresina,-5.0892,-42.8019,Brazil,BR,Piauí,admin,864845,864845
+Campo Grande,-20.4697,-54.6201,Brazil,BR,Mato Grosso do Sul,admin,895982,895982
+João Pessoa,-7.115,-34.8631,Brazil,BR,Paraíba,admin,817511,817511
+Uberlândia,-18.9186,-48.2772,Brazil,BR,Minas Gerais,minor,699097,699097
+Ribeirão Preto,-21.1775,-47.8103,Brazil,BR,São Paulo,minor,703293,703293
+Aracaju,-10.9472,-37.0731,Brazil,BR,Sergipe,admin,657013,657013
+Feira de Santana,-12.2664,-38.9668,Brazil,BR,Bahia,minor,619609,619609
+Londrina,-23.3103,-51.1628,Brazil,BR,Parana,minor,575377,575377
+Juiz de Fora,-21.7587,-43.3399,Brazil,BR,Minas Gerais,minor,573285,573285
+Joinville,-26.3044,-48.8489,Brazil,BR,Santa Catarina,minor,590466,590466
+Cuiabá,-15.601,-56.0978,Brazil,BR,Mato Grosso,admin,618124,618124
+Ilhéus,-14.7935,-39.0393,Brazil,BR,Bahia,minor,162327,162327
+Porto Seguro,-16.4435,-39.0643,Brazil,BR,Bahia,minor,150658,150658
+Teixeira de Freitas,-17.5392,-39.7437,Brazil,BR,Bahia,minor,162438,162438
+Vitoria,-20.3155,-40.3128,Brazil,BR,Espírito Santo,admin,362097,362097
+Florianópolis,-27.5954,-48.548, Brazil,BR,Santa Catarina,admin,508826,508826
+Criciúma,-28.6775,-49.3699,Brazil,BR,Santa Catarina,minor,217311,217311
+Pelotas,-31.7645,-52.3371,Brazil,BR,Rio Grande do Sul,minor,343132,343132
+Santa Maria,-29.6842,-53.8069,Brazil,BR,Rio Grande do Sul,minor,282248,282248
+Santarém,-2.4385,-54.6996,Brazil,BR,Pará,minor,304589,304589
+Macapá,0.0341,-51.0705,Brazil,BR,Amapá,admin,512902,512902

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Maps API Example with Map ID</title>
+    
+    <script src="main.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyByE64wA61IlqrLScEBn6dUig4zx8liL44&callback=initMap" async defer></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div>
+        <input type="number" value="20" id="number_of_cities">
+        <button id="button_find_city">Find cities</button>
+        <button id="greedy">Initiate algorithm</button>
+        <button id="draw">Draw</button>
+    </div>
+    <div id="map" style="height: 350px; width: 500px;"></div>
+</body>
+</html>

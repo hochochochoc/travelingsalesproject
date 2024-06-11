@@ -1,0 +1,135 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Madrid,40.4169,-3.7033,Spain,ES,Madrid,primary,6211000,3266126
+Barcelona,41.3828,2.1769,Spain,ES,Catalunya,admin,4800000,1620343
+Valencia,39.4700,-0.3764,Spain,ES,Valencia,admin,1595000,807693
+Sevilla,37.3900,-5.9900,Spain,ES,Andalucía,admin,1100000,684025
+Málaga,36.7194,-4.4200,Spain,ES,Andalucía,minor,967250,586384
+Bilbao,43.2569,-2.9236,Spain,ES,Basque Country,minor,775000,346096
+Zaragoza,41.6500,-0.8833,Spain,ES,Aragon,admin,682513,682513
+Murcia,37.9861,-1.1303,Spain,ES,Murcia,admin,672773,469177
+Palma,39.5667,2.6500,Spain,ES,Balearic Islands,admin,550000,423350
+Alicante,38.3453,-0.4831,Spain,ES,Valencia,minor,349282,349282
+Córdoba,37.8845,-4.7796,Spain,ES,Andalucía,minor,323763,323763
+Valladolid,41.6528,-4.7236,Spain,ES,Castilla-León,admin,297459,297459
+Vigo,42.2314,-8.7124,Spain,ES,Galicia,,293652,293652
+Gijón,43.5333,-5.7000,Spain,ES,Asturias,,268313,268313
+Vitoria-Gasteiz,42.8500,-2.6833,Spain,ES,Basque Country,admin,255886,255886
+A Coruña,43.3650,-8.4100,Spain,ES,Galicia,minor,247604,247604
+Elche,38.2669,-0.6983,Spain,ES,Valencia,,238293,238293
+Granada,37.1781,-3.6008,Spain,ES,Andalucía,minor,230595,230595
+Terrassa,41.5700,2.0130,Spain,ES,Catalunya,,225277,225277
+Sabadell,41.5486,2.1075,Spain,ES,Catalunya,,218300,218300
+Cartagena,37.6000,-0.9833,Spain,ES,Murcia,,218050,218050
+Oviedo,43.3600,-5.8450,Spain,ES,Asturias,admin,217584,217584
+Jerez de la Frontera,36.6817,-6.1378,Spain,ES,Andalucía,,213231,213231
+Pamplona,42.8167,-1.6500,Spain,ES,Navarre,admin,205762,205762
+Almería,36.8403,-2.4681,Spain,ES,Andalucía,minor,200578,200578
+Alcalá de Henares,40.4667,-3.3667,Spain,ES,Madrid,,196888,196888
+Donostia,43.3214,-1.9856,Spain,ES,Basque Country,minor,188743,188743
+Castellón de la Plana,39.9831,-0.0331,Spain,ES,Valencia,minor,176238,176238
+Burgos,42.3500,-3.7067,Spain,ES,Castilla-León,minor,174451,174451
+Albacete,38.9956,-1.8558,Spain,ES,Castilla-La Mancha,minor,173206,173206
+Santander,43.4628,-3.8050,Spain,ES,Cantabria,admin,172726,172726
+Guadalajara,40.6337,-3.1674,Spain,ES,Castilla-La Mancha,minor,161683,89010
+Marbella,36.5167,-4.8833,Spain,ES,Andalucía,,156295,156295
+Logroño,42.4650,-2.4456,Spain,ES,La Rioja,admin,150583,150583
+Badajoz,38.8803,-6.9753,Spain,ES,Extremadura,minor,150190,150190
+Salamanca,40.9650,-5.6642,Spain,ES,Castilla-León,minor,143954,143954
+Lleida,41.6167,0.6333,Spain,ES,Catalunya,minor,143094,143094
+Huelva,37.2500,-6.9500,Spain,ES,Andalucía,minor,142532,142532
+Tarragona,41.1175,1.2528,Spain,ES,Catalunya,minor,138262,138262
+Mataró,41.5333,2.4500,Spain,ES,Catalunya,,129120,128956
+Algeciras,36.1275,-5.4539,Spain,ES,Andalucía,,123639,123639
+León,42.6056,-5.5700,Spain,ES,Castilla-León,minor,122051,120951
+Jaén,37.7667,-3.7711,Spain,ES,Andalucía,minor,111888,111888
+Cádiz,36.5350,-6.2975,Spain,ES,Andalucía,minor,111811,111811
+Reus,41.1560,1.1080,Spain,ES,Catalunya,,108479,108479
+Roquetas de Mar,36.7642,-2.6147,Spain,ES,Andalucía,,106510,106510
+Girona,41.9844,2.8211,Spain,ES,Catalunya,minor,104320,104320
+Ourense,42.3364,-7.8633,Spain,ES,Galicia,minor,104250,104250
+Santiago de Compostela,42.8778,-8.5444,Spain,ES,Galicia,admin,98687,98687
+Torrevieja,37.9778,-0.6833,Spain,ES,Valencia,,89290,89290
+Toledo,39.8567,-4.0244,Spain,ES,Castilla-La Mancha,admin,86070,86070
+Fuengirola,36.5417,-4.6250,Spain,ES,Andalucía,,85598,85598
+Manresa,41.7294,1.8272,Spain,ES,Catalunya,,78877,78877
+Gandía,38.9667,-0.1833,Spain,ES,Valencia,,78108,78108
+Avilés,43.5561,-5.9083,Spain,ES,Asturias,,75518,75518
+Benidorm,38.5342,-0.1314,Spain,ES,Valencia,,72342,72342
+Castelldefels,41.2860,1.9820,Spain,ES,Catalunya,,68427,68427
+Villanueva y Geltrú,41.2242,1.7256,Spain,ES,Catalunya,,68152,68152
+Mérida,38.9000,-6.3333,Spain,ES,Extremadura,admin,59461,59461
+Elda,38.4789,-0.7967,Spain,ES,Valencia,,53034,53034
+Ibiza,38.9089,1.4328,Spain,ES,Balearic Islands,,51996,51996
+Torrelavega,43.3531,-4.0458,Spain,ES,Cantabria,,51361,51361
+Figueres,42.2667,2.9650,Spain,ES,Catalunya,,47879,47879
+Vic,41.9303,2.2547,Spain,ES,Catalunya,,47545,47545
+Blanes,41.6760,2.7930,Spain,ES,Catalunya,,41653,41653
+Igualada,41.5833,1.6167,Spain,ES,Catalunya,,41164,41164
+Olot,42.1833,2.4833,Spain,ES,Catalunya,,37975,37975
+San Pedro del Pinatar,37.8167,-0.7500,Spain,ES,Murcia,,27691,27691
+Calpe,38.6450,0.0442,Spain,ES,Valencia,,25854,25854
+Zarautz,43.2833,-2.1667,Spain,ES,Basque Country,,23152,23152
+San Felíu de Guixols,41.7833,3.0333,Spain,ES,Catalunya,,22751,22751
+Bañolas,42.1194,2.7664,Spain,ES,Catalunya,,20506,20506
+Guernica y Luno,43.3167,-2.6667,Spain,ES,Basque Country,,17050,17050
+Ermúa,43.1875,-2.5008,Spain,ES,Basque Country,,15599,15599
+Ceuti,38.0789,-1.2722,Spain,ES,Murcia,,12668,12668
+Garrucha,37.1842,-1.8214,Spain,ES,Andalucía,,10336,10336
+Reinosa,43.0019,-4.1378,Spain,ES,Cantabria,,8570,8570
+Colindres,43.3967,-3.4483,Spain,ES,Cantabria,,8549,8549
+Canet de Berenguer,39.6794,-0.2206,Spain,ES,Valencia,,7265,7265
+Lekeitio,43.3622,-2.4961,Spain,ES,Basque Country,,7143,7143
+Rafal,38.1000,-0.8333,Spain,ES,Valencia,,4634,4634
+El Puente del Arzobispo,39.8000,-5.1667,Spain,ES,Castilla-La Mancha,,1171,1171
+Aracena,37.89111,-6.56111,Spain,ES,Andalucía,,8340,8340
+Zafra,38.41666,-6.41666,Spain,ES,Extremadura,,16776,16776
+Cáceres,39.47305,-6.371111,Spain,ES,Extremadura,,96215,96215
+Plasencia,40.0275,-6.09083,Spain,ES,Extremadura,,39412,39412
+Antequera,37.01836,-4.55966,Spain,ES,Andalucía,,41178,41178
+Zamora,41.50333,-5.75555,Spain,ES,Castilla-León,,59259,59259
+Benavente,42.00486,-5.67561,Spain,ES,Castilla-León,,17261,17261
+Ferrol,43.48444,-8.23277,Spain,ES,Galicia,,63890,63890
+Foz,43.56944,-7.25833,Spain,ES,Galicia,,10163,10163
+Sarria,42.7777,-7.41444,Spain,ES,Galicia,,13221,13221
+Ponferrada,42.54611,-6.59083,Spain,ES,Castilla-León,,62963,62963
+Pontevedra,42.4336,-8.6475,Spain,ES,Galicia,,82535,82535
+Puebla de Sanabria,42.05527,-6.63361,Spain,ES,Castilla-León,,1376,1376
+Verín,41.94083,-7.43583,Spain,ES,Galicia,,13612,13612
+Cuenca,40.07166,-2.135,Spain,ES,Castilla-La Mancha,,53512,53512
+Teruel,40.34361,-1.10722,Spain,ES,Aragon,,36267,36267
+Ciudad Real,38.98333,-3.91666,Spain,ES,Castilla-La Mancha,,75303,75303
+Iniesta,39.44455,-1.74874,Spain,ES,Castilla-La Mancha,,4453,4453
+Valdepeñas,38.7663,-3.39972,Spain,ES,Castilla-La Mancha,,30411,30411
+Hellín,38.51666,-1.683333,Spain,ES,Castilla-La Mancha,,30268,30268
+Huesca,42.140,-0.40889,Spain,ES,Aragon,,54136,54136
+Monzón,41.9,0.183333,Spain,ES,Aragon,,17839,17839
+Tortosa,40.8125,0.52111,Spain,ES,Catalunya,,34639,34639
+Calanda,40.939464,-0.23156,Spain,ES,Aragon,,3759,3759
+Calatayud,41.35,-1.633333,Spain,ES,Aragon,,19677,19677
+Calamocha,40.92,-1.30083,Spain,ES,Aragon,,4505,4505
+Sabiñánigo,42.518583,-0.36433,Spain,ES,Aragon,,9423,9423
+Quintanar de la Orden,39.59583,-3.04694,Spain,ES,Castilla-La Mancha,,11119,11119
+Soria,41.7666,-2.4666,Spain,ES,Castilla-León,,40096,40096
+Aranda de Duero,41.67138,-3.68638,Spain,ES,Castilla-León,,33626,33626
+Cabeza del Buey,38.73777,-5.21944,Spain,ES,Extremadura,,4929,4929
+Moraleja,40.066667,-6.65,Spain,ES,Extremadura,,6792,6792
+Ávila,40.6543,-4.69622,Spain,ES,Castilla-León,,57741,57741
+Segovia,40.94805,-4.11833,Spain,ES,Castilla-León,,51011,51011
+Mahón,39.887,4.161111,Spain,ES,Balearic Islands,,28592,28592
+Villarrobledo,39.2666,-2.6,Spain,ES,Castilla-La Mancha,,25241,25241
+Los Isidros,39.41890,-1.292036,Spain,ES,Valencia,,337,337
+La Yesa,39.89111,-0.96222,Spain,ES,Valencia,,227,227
+Vilafranca,40.425,-0.255833,Spain,ES,Valencia,,2227,2227
+Villahermosa del Río,40.20295,-0.41828,Spain,ES,Valencia,,488,488
+Móra d'Ebre,41.09333,0.6427,Spain,ES,Catalunya,,5642,5652
+Lécera,41.203,-0.7107,Spain,ES,Arago,,616,616
+Ejea de los Caballeros,42.12916, -1.1372,Spain,ES,Aragon,,16605,16605
+Mallén,41.9,-1.416667,Spain,ES,Catalunya,,3083,3083
+Vielha,42.7023,0.79581,Spain,ES,Catalunya,,3628,3628
+Sort,42.41666,1.133333,Spain,ES,Catalunya,,2164,2164
+Dos Hermanas,37.28361,-5.922222,Spain,ES,Andalucía,,138981,138981
+Chiclana de la Frontera,36.416667,-6.15,Spain,ES,Andalucía,,88709,88709
+Almendralejo,38.68305,-6.409167,Spain,ES,Extremadura,,33948,33948
+Palencia,42.016667,-4.5333,Spain,ES,Castilla-León,,76331,76311
+Cazorla,37.9,-3,Spain,ES,Andalucía,,7574,7574
+Santiago de la Espada,38.10916,-2.55694,Spain,ES,Andalucía,,1088,1088
