@@ -190,7 +190,7 @@ function addMarker(location, name) {
 
 document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('goBack').addEventListener('click', function() {
-        window.location.href = 'homepage.html'; 
+        window.location.href = 'index.html'; 
     });
 });
 
